@@ -1,3 +1,10 @@
+.banner {
+  background-color: black;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
 * {
   margin: 0;
   border: 0;
@@ -8,4 +15,4 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=index.css.map */
