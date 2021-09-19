@@ -1,0 +1,18 @@
+.nav{
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: .09rem solid gray;
+    input{
+        padding: .5rem;
+        border: 1px solid black;
+        border-radius: 5px;
+    }
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    flex-grow: 1;
+}
